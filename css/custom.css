@@ -1,0 +1,57 @@
+.topnavbtn {
+float:left;
+}
+
+img.carlist-thumb{
+width:50px;
+height:50px;
+
+}
+
+.carlist-name{
+padding-top:10px;
+color:black; 
+ font-size: 1.6em;
+}
+
+/*
+.carlist-name a:link, .navigation-div a:visited { 
+color:black; 
+ font-size: 1.6em;
+}
+*/
+
+.breadcrumb > li + li:before {
+    color: #CCCCCC;
+    content: "/ ";
+    padding: 0 5px;
+	
+}
+
+.bread-div {
+
+    margin-top:-20px;
+	
+}
+
+.navbar-header h1{
+color:white;
+font-size:large;
+margin-top:15px;
+}
+
+.carlist-tile-green{
+background-color:#000099;
+margin-top:15px;
+padding-top:20px;
+padding-bottom:20px;
+margin-left:8%;
+}
+
+.carlist-tile-purple{
+background-color:#660066;
+margin-top:15px;
+padding-top:20px;
+padding-bottom:20px;
+margin-left:8%;
+}
